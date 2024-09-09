@@ -1,0 +1,63 @@
+h1 {
+font-size: 500%; 
+text-align: center;
+}
+
+#pictures {
+width: 80%; 
+}
+
+.pic3 {
+  float: inline-start;
+}
+
+.pic2 {
+  width: 30%;
+  float: left;
+  height: 70%;
+}
+
+#about {
+  font-size: 500;
+  font-weight: bold;
+  text-align: center;
+}
+
+#para {
+  text-align: right;
+  text-align: justify;
+}
+
+.p1 {
+  font-size: 115%;
+  color: red;
+}
+
+.p2 {
+  font-size: 115%;
+  color: green;
+}
+
+.p3 {
+  font-size: 115%;
+  color: blue;
+}
+
+.p4 { 
+  color: orange;
+  font-size:large
+}
+
+.T1 {
+  color:darkblue
+}
+
+.P0 { 
+  font-size: x-large;
+color:darkgoldenrod
+}
+
+
+.H1 {
+color:firebrick
+}
